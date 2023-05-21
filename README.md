@@ -16,8 +16,21 @@ Open Sourced Advanced Analytics and Stat Tracking for Jiu Jitsu
 </div>
 
 <ul>
-<li><a href='https://discord.gg/jNpxBtdadw'>Discord</a></li>
+<li><a href='https://github.com/Andrew95496/void'>Discord</a></li>
 <li><a href='https://www.overleaf.com/read/rmnjrykntwpt'>Stat Definitions PDF</a></li>
+</ul>
+
+<div align='center'>
+<h2>Tech Stack</h2>
+</div>
+
+<ul>
+<li><a href=''>VOID</a></li>
+<li><a href='https://github.com/Andrew95496/cobra'>Cobra</a></li>
+<li>Python</li>
+<li>Pandas</li>
+<li>TypeScript</li>
+<li>React</li>
 </ul>
 
 <div align="center">
