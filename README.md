@@ -37,7 +37,7 @@ Open Sourced Advanced Analytics and Stat Tracking for Jiu Jitsu
 <h2>One Drive</h2>
 <img src="README_media/one_drive.png" alt="Jiu Jistics Logo">
 </div>
- Go ti the Discord to get the link to the one drive to review the excel sheets for all of the athletes tracked so far.
+ Go to the Discord to get the link to the one drive to review the excel sheets for all of the athletes tracked so far.
 
 <div align="center">
 <h2>Excel</h2>
